@@ -115,7 +115,6 @@ class Mpd < Formula
         <key>ProgramArguments</key>
         <array>
             <string>#{opt_bin}/mpd</string>
-            <string>--no-daemon</string>
         </array>
         <key>RunAtLoad</key>
         <true/>
